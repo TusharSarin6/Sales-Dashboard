@@ -20,3 +20,5 @@ To conribute to the success of a business by utilizing data analysis techniques,
 ● Power Query - Data transformation and cleaning layer for reshaping and preparing the data.
 ● DAX - Used for calculated measures, dynamic visuals, and conditional logic.
 ● File Format - .pbix for development and .png for dashboard previews
+
+Screenshots - https://github.com/TusharSarin6/Sales-Dashboard/blob/main/Sales_Dashboard.png
